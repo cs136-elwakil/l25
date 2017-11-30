@@ -1,1 +1,2 @@
 10 Print "StarCraft"
+20 Print "Doom"
